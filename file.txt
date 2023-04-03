@@ -1,1 +1,2 @@
 ECHO is on.
+Here is an additional line of text.
